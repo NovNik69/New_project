@@ -966,3 +966,142 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.03.28-08.19.56:404][652]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Unreal Projects/New_project'
 [2024.03.28-08.19.56:621][652]EditorErrors: Warning: No assets to check in!
 [2024.03.28-08.20.02:997][972]LogSlate: Window 'Source Control Login' being destroyed
+[2024.03.28-08.22.44:517][773]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.03.28-08.22.44:517][773]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.03.28-08.22.56:138][330]LogSlate: Window 'Message' being destroyed
+[2024.03.28-08.22.56:149][330]Message dialog closed, result: Yes, title: Message, text: The following packages have been modified:
+    /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+Would you like to reload these packages? This will revert any changes you have made.
+[2024.03.28-08.22.56:151][330]LightingResults: New page: Lighting Build
+[2024.03.28-08.22.56:157][330]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.28-08.22.56:159][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.28-08.22.56:160][330]MapCheck: New page: Map Check
+[2024.03.28-08.22.56:160][330]LightingResults: New page: Lighting Build
+[2024.03.28-08.22.56:169][330]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.28-08.22.56:181][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.28-08.22.56:185][330]LogAIModule: Creating AISystem for world Untitled
+[2024.03.28-08.22.56:187][330]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.03.28-08.22.56:218][330]LoadErrors: New page: New Map
+[2024.03.28-08.22.56:309][330]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2024.03.28-08.22.56:310][330]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/New_project/New_Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.03.28-08.22.56:310][330]LightingResults: New page: Lighting Build
+[2024.03.28-08.22.56:310][330]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2024.03.28-08.22.56:311][330]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.03.28-08.22.56:311][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.28-08.22.56:311][330]MapCheck: New page: Map Check
+[2024.03.28-08.22.56:311][330]LightingResults: New page: Lighting Build
+[2024.03.28-08.22.56:319][330]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.28-08.22.56:322][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.03.28-08.22.56:322][330]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2024.03.28-08.22.56:439][330]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.28-08.22.56:439][330]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.03.28-08.22.56:450][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.03.28-08.22.56:464][330]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.28-08.22.56:464][330]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,182ms to complete.
+[2024.03.28-08.22.56:464][330]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.155
+[2024.03.28-08.24.28:355][422]LogActorFactory: Actor Factory created Sphere
+[2024.03.28-08.24.29:550][492]LogActorFactory: Actor Factory created Sphere
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:067][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:068][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:068][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:068][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:068][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.24.38:559][945]EditorErrors: Warning: No assets to check in!
+[2024.03.28-08.24.43:581][211]LogSlate: Window 'Message Log' being destroyed
+[2024.03.28-08.24.43:592][211]LogSlate: Window 'Message Log' being destroyed
+[2024.03.28-08.24.49:754][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.28-08.24.49:801][318]LogSavePackage: Moving '../../../../../../Unreal Projects/New_project/New_Project/Saved/ThirdPersonExampleMap9AFBD50F415D97E19F31E18FACF94E94.tmp' to '../../../../../../Unreal Projects/New_project/New_Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2024.03.28-08.24.50:083][318]LogSavePackage: Moving '../../../../../../Unreal Projects/New_project/New_Project/Saved/ThirdPersonExampleMap_BuiltDataDB4096EF4FF884C27619D78EC0F7F821.tmp' to '../../../../../../Unreal Projects/New_project/New_Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2024.03.28-08.24.50:098][318]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.28-08.24.50:099][318]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2024.03.28-08.24.50:099][318]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:265][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Unreal Projects/New_project'
+[2024.03.28-08.25.01:660][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.03.28-08.25.01:687][936]LogSavePackage: Moving '../../../../../../Unreal Projects/New_project/New_Project/Saved/ThirdPersonExampleMap89AD66724A45B78EAB0982B87AC52BBE.tmp' to '../../../../../../Unreal Projects/New_project/New_Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2024.03.28-08.25.01:693][936]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.041
+[2024.03.28-08.25.01:807][936]LogSavePackage: Moving '../../../../../../Unreal Projects/New_project/New_Project/Saved/ThirdPersonExampleMap_BuiltDataD4C37BEA4001DC4BE300AD98EEF6FB03.tmp' to '../../../../../../Unreal Projects/New_project/New_Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2024.03.28-08.25.08:614][936]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.03.28-08.25.08:614][936]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.03.28-08.25.21:931][936]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.03.28-08.25.21:931][936]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.03.28-08.25.28:397][936]LogSlate: Window 'Submit Files' being destroyed
+[2024.03.28-08.25.29:453][936]LogSourceControl: commit successful: [detached HEAD 4d78cd7] homework3
+[2024.03.28-08.25.29:519][936]SourceControl: [detached HEAD 4d78cd7] homework3
+[2024.03.28-08.25.29:519][936]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2024.03.28-08.25.29:532][936]SourceControl: Commited [detached HEAD 4d78cd7] homework3.
+[2024.03.28-08.25.29:566][937]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.28-08.25.29:566][937]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2024.03.28-08.25.29:566][937]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2024.03.28-08.28.23:350][871]LightingResults: New page: Lighting Build
+[2024.03.28-08.28.23:353][871]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.28-08.28.23:353][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.28-08.28.23:353][871]MapCheck: New page: Map Check
+[2024.03.28-08.28.23:353][871]LightingResults: New page: Lighting Build
+[2024.03.28-08.28.23:359][871]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.28-08.28.23:362][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.03.28-08.28.23:367][871]LogAIModule: Creating AISystem for world Untitled
+[2024.03.28-08.28.23:368][871]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.03.28-08.28.23:394][871]LoadErrors: New page: New Map
+[2024.03.28-08.28.23:455][871]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2024.03.28-08.28.23:455][871]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/New_project/New_Project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.03.28-08.28.23:455][871]LightingResults: New page: Lighting Build
+[2024.03.28-08.28.23:455][871]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2024.03.28-08.28.23:456][871]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.03.28-08.28.23:456][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.28-08.28.23:456][871]MapCheck: New page: Map Check
+[2024.03.28-08.28.23:457][871]LightingResults: New page: Lighting Build
+[2024.03.28-08.28.23:464][871]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.28-08.28.23:466][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.03.28-08.28.23:467][871]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2024.03.28-08.28.23:574][871]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.28-08.28.23:574][871]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.03.28-08.28.23:585][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.03.28-08.28.23:589][871]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.28-08.28.23:589][871]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,144ms to complete.
+[2024.03.28-08.28.23:589][871]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.134
